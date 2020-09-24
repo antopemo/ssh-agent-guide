@@ -23,8 +23,9 @@ Press enter to save your keys to the default /home/username/.ssh directory.
 Then you'll be prompted to enter a password:
 ```
 Enter passphrase (empty for no passphrase):
-It's recommended to enter a password here for an extra layer of security. By setting a password, you could prevent unauthorized access to your servers and accounts if someone ever gets a hold of your private SSH key or your machine.
+
 ```
+It's recommended to enter a password here for an extra layer of security. By setting a password, you could prevent unauthorized access to your servers and accounts if someone ever gets a hold of your private SSH key or your machine.
 After entering and confirming your password, you'll see the following:
 ```
 Your identification has been saved in /home/username/.ssh/id_rsa.
